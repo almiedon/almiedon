@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almiedon
 - 👀 I’m interested in games, drawings and series
-- 🌱 I’m currently learning c+, c++ and javascript
+- 🌱 I’m currently learning c+, c++, javascript, css and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
